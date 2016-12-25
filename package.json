@@ -1,0 +1,60 @@
+{
+  "name": "wcjs-player",
+  "description": "Player for WebChimera.js (libvlc wrapper)",
+  "version": "6.0.1",
+  "license": "LGPL-2.1",
+  "author": {
+    "name": "Branza Victor-Alexandru",
+    "email": "branza.alex@gmail.com"
+  },
+  "keywords": [
+    "video",
+    "player",
+    "webchimera",
+    "webchimera.js",
+    "vlc",
+    "libvlc"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jaruba/wcjs-player.git"
+  },
+  "dependencies": {
+    "wcjs-renderer": "^1.0.2",
+    "jquery": "*",
+    "jquery-ui": "github:jaruba/jquery-ui",
+    "computer-sleep": "github:jaruba/computer-sleep",
+    "request": "*"
+  },
+  "gitHead": "3dfb21d325ace91b9bf7c2a25292cb332a49d80a",
+  "bugs": {
+    "url": "https://github.com/jaruba/wcjs-player/issues"
+  },
+  "homepage": "https://github.com/jaruba/wcjs-player#readme",
+  "_id": "wcjs-player@6.0.1",
+  "scripts": {},
+  "_shasum": "c10d3078a7dc04c22ff4c7f1454cc540979e92ca",
+  "_from": "wcjs-player@>=6.0.0 <7.0.0",
+  "_npmVersion": "3.3.9",
+  "_nodeVersion": "4.4.0",
+  "_npmUser": {
+    "name": "jaruba",
+    "email": "branza.alex@gmail.com"
+  },
+  "maintainers": [
+    {
+      "name": "jaruba",
+      "email": "branza.alex@gmail.com"
+    }
+  ],
+  "dist": {
+    "shasum": "c10d3078a7dc04c22ff4c7f1454cc540979e92ca",
+    "tarball": "https://registry.npmjs.org/wcjs-player/-/wcjs-player-6.0.1.tgz"
+  },
+  "_npmOperationalInternal": {
+    "host": "packages-16-east.internal.npmjs.com",
+    "tmp": "tmp/wcjs-player-6.0.1.tgz_1467862193332_0.0592270668130368"
+  },
+  "directories": {},
+  "_resolved": "https://registry.npmjs.org/wcjs-player/-/wcjs-player-6.0.1.tgz"
+}
