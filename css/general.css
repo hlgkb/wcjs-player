@@ -462,7 +462,7 @@
 
 /* Subtitle Text */
 .wcp-subtitle-text {
-	font-family: 'Arial';
+	font-family: 'Roboto', Verdana, Tahoma, sans-serif;
 	position: absolute;
 	bottom: 40px;
 	left: 0;
